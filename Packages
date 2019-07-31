@@ -22,12 +22,12 @@ Maintainer: KingPuffdaddi
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.kingpuffdaddi.alwaysaudio_1.0-1+debug_iphoneos-arm.deb
-Size: 3548
-MD5sum: 6545f7f0fa87ef3da965f51ddd0fd8bb
-SHA1: 162ef959baab58f11817b3d4c5bbc3c4d8d98e93
-SHA256: 20d8040dd8e452d45d62b71de8561176396072ea877aac084e7282a7a2f1f3cf
+Size: 3502
+MD5sum: ae4ae14a78064a4c2c0fe45439380da5
+SHA1: a56fa59a7875c13f9a1772e3f18faf0412dc8afc
+SHA256: f5cfac49cea9e66ba8c724c853549c42af7274288c487db34afd7b449eeb7533
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Allows apps to play audio even when mute switch is on
 Author: KingPuffdaddi
 Name: AlwaysAudio
 
@@ -38,12 +38,12 @@ Maintainer: KingPuffdaddi
 Installed-Size: 116
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.kingpuffdaddi.control-center.ccmono_1.0_iphoneos-arm.deb
-Size: 9760
-MD5sum: f9746bde0c6dc9b22b624caa3f5ff2d9
-SHA1: f37a66e6c411205d72741c4ca38724e823c669d3
-SHA256: 06a631647d1e8e64cb5d748bb3d67c84ff7d109dfac14f8469e7e2530cf098ae
+Size: 9780
+MD5sum: 5ab9d51e7916835729dedf491ab8cba6
+SHA1: 8a2087ceca2a24733d086f42a58302bbfa8392bf
+SHA256: 328729f4133a64961d25df446e2a614d92a562266b23a002743ccafd7d43a755
 Section: Control Center (Modules)
-Description: A Control Center Module to enable/disable "Mono Audio"
+Description: A Control Center Module to enable/disable "Mono Audio" (NEEDS ICON)
 Author: KingPuffdaddi
 Name: CCMono
 
