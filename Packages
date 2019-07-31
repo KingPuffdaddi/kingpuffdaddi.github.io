@@ -7,7 +7,7 @@ Maintainer: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Author: JulioVerne
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware(>=11.0)
-Filename: debs/com.julioverne.flipconvert_0.0~beta4~A12_iphoneos-arm.deb
+Filename: ./debs/com.julioverne.flipconvert_0.0~beta4~A12_iphoneos-arm.deb
 Size: 11860
 MD5sum: e963852f3d312ddb93b449fa2930c7c0
 SHA1: 64306687fb874b2fb471910123121df7daa2aa79
