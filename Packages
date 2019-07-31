@@ -1,17 +1,17 @@
 Package: com.julioverne.flipconvert
 Version: 0.0~beta4~A12
 Architecture: iphoneos-arm
-Maintainer: Julio
+Maintainer: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Installed-Size: 108
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware(>=11.0)
 Filename: ./debs/com.julioverne.flipconvert_0.0~beta4~A12_iphoneos-arm.deb
-Size: 11916
-MD5sum: cd148ec6c67e658b0cf9c1de6400a2e2
-SHA1: 765c311d9ef45c7cecf1ad372a9ec0260813f4eb
-SHA256: 334e0423dc13a252d2df41d55179e0d41e962e66c77cb89ca7d65516f96ebab7
+Size: 11912
+MD5sum: 07a264bfeffa509eaf3e2d19b7d89b70
+SHA1: 8edc05bc22cba62f3d55a7e53bd7658bae6a3ab3
+SHA256: 02831f6b81c92a49edc2af27700de7d7248ee9a9decd4703629094eaba1d9a99
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
-Description: FlipSwitch for A12
+Description: FlipConvert for A12
 Author: julioverne
 Name: FlipConvert
 
