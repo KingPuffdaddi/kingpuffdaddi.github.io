@@ -5,13 +5,13 @@ Maintainer: Julio
 Installed-Size: 108
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware(>=11.0)
 Filename: ./debs/com.julioverne.flipconvert_0.0~beta4~A12_iphoneos-arm.deb
-Size: 11860
-MD5sum: e963852f3d312ddb93b449fa2930c7c0
-SHA1: 64306687fb874b2fb471910123121df7daa2aa79
-SHA256: af3753f7993bcd2fc009e20dc1c4aa30f936db26fcb3105ec8558135a25ab4b9
+Size: 11916
+MD5sum: cd148ec6c67e658b0cf9c1de6400a2e2
+SHA1: 765c311d9ef45c7cecf1ad372a9ec0260813f4eb
+SHA256: 334e0423dc13a252d2df41d55179e0d41e962e66c77cb89ca7d65516f96ebab7
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
-Description: Port Flipswitch Toggles With CCSupport
+Description: FlipSwitch for A12
 Author: julioverne
 Name: FlipConvert
 
