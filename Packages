@@ -37,10 +37,10 @@ Name: CCMono
 Version: 1.0
 Depends: mobilesubstrate, com.opa334.ccsupport
 Architecture: iphoneos-arm
-Description: A Control Center Module to enable/disable "Mono Audio" (Needs icon)
+Description: A Control Center Module to enable/disable "Mono Audio"
 Author: KingPuffdaddi
-Section: Tweaks
-Maintainer: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Section: Control Center (Modules)
+Maintainer: KingPuffdaddi
 Filename: ./debs/com.kingpuffdaddi.control-center.ccmono_1.0_iphoneos-arm.deb
 Size: 9760 
 MD5sum: f9746bde0c6dc9b22b624caa3f5ff2d9
