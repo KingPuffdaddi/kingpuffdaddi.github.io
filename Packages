@@ -47,3 +47,35 @@ Description: A Control Center Module to enable/disable "Mono Audio" (NEEDS ICON)
 Author: KingPuffdaddi
 Name: CCMono
 
+Package: com.kingpuffdaddi.hidenotificationcentertitle
+Version: 0.0.1-22+debug
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.hidenotificationcentertitle_0.0.1-22+debug_iphoneos-arm.deb
+Size: 2850
+MD5sum: 8f851fd4a6bc9fc66640acef0c1ca532
+SHA1: 922905f7bae25a6c6128e5a329e3586ceec0e427
+SHA256: 7f808daa887da9aba0250839f007c62520845b94ca7b1bdfa4fb1515d2cff074
+Section: Tweaks
+Description: Hides the "Notification Center" title
+Author: KingPuffdaddi
+Name: HideNotificationCenterTitle
+
+Package: com.kingpuffdaddi.musiclength
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.musiclength_0.0.1_iphoneos-arm.deb
+Size: 3558
+MD5sum: 8c66f3a84269006c830dcc08e04df74c
+SHA1: b178f89a1d35800b365102dc2f1f761c75eb5b22
+SHA256: 16760b03886285ca913e36e30242f9f6846523ac166360ff5f83ad9c90dd30e4
+Section: Tweaks
+Description: Shows track length in Music App. (Just tested on Plus device)
+Author: KingPuffdaddi
+Name: MusicLength
+
