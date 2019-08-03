@@ -79,3 +79,19 @@ Description: Shows track length in Music App. (Just tested on Plus device)
 Author: KingPuffdaddi
 Name: MusicLength
 
+Package: com.kingpuffdaddi.notifbounce
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.1_iphoneos-arm.deb
+Size: 35412
+MD5sum: 4a354b6716e2d4ae1933bbea0d76dab1
+SHA1: 74a66ddbcc8469fe4cc4b33e238993ea4f69ebd3
+SHA256: 501266c843dc125f15f591d4f1a06efd2f97bef3dbb750121bef10aa28ad6774
+Section: Tweaks
+Description: Makes your icons with notification bounce
+Author: KingPuffdaddi
+Name: NotifBounce
+
