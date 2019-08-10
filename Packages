@@ -22,13 +22,14 @@ Maintainer: KingPuffdaddi
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.kingpuffdaddi.alwaysaudio_1.0-1+debug_iphoneos-arm.deb
-Size: 3502
-MD5sum: ae4ae14a78064a4c2c0fe45439380da5
-SHA1: a56fa59a7875c13f9a1772e3f18faf0412dc8afc
-SHA256: f5cfac49cea9e66ba8c724c853549c42af7274288c487db34afd7b449eeb7533
+Size: 3524
+MD5sum: 01ca5311fc1a647ed58424520e94854d
+SHA1: 0ff6c1884ce3712ec2c1cb7ab83fefc8671900bd
+SHA256: b771402b73513beeec10ec0acf18207c43cc0f464443b14ce93d02bb18b93092
 Section: Tweaks
 Description: Allows apps to play audio even when mute switch is on
 Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysaudio
 Name: AlwaysAudio
 
 Package: com.kingpuffdaddi.control-center.ccmono
