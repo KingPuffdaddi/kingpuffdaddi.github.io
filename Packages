@@ -47,22 +47,6 @@ Description: A Control Center Module to enable/disable "Mono Audio" (NEEDS ICON)
 Author: KingPuffdaddi
 Name: CCMono
 
-Package: com.kingpuffdaddi.headphonelaunch
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: KingPuffdaddi
-Installed-Size: 304
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.1_iphoneos-arm.deb
-Size: 31124
-MD5sum: 2e079e25a7bf4a9cdc9f8b4249779e1d
-SHA1: 7efdbe214622122bc06d4065230f72cf7a249dc9
-SHA256: 02f8fca81e42b7b6139aeb13bfa9cf7d5136705a095d7aa0283a7e6a08ddaa2a
-Section: Tweaks
-Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure from settings
-Author: KingPuffdaddi
-Name: HeadphoneLaunch
-
 Package: com.kingpuffdaddi.hidenotificationcentertitle
 Version: 0.0.1-22+debug
 Architecture: iphoneos-arm
