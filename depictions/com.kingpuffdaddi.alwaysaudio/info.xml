@@ -1,0 +1,23 @@
+<package>
+	<id>com.kingpuffdaddi.alwaysaudio</id>
+	<name>AlwaysAudio</name>
+	<version>1.0-1+debug</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Allows apps to play audio even when mute switch is on</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
