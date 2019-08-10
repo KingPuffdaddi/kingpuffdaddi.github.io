@@ -3,7 +3,7 @@
 		<link>
 			<name>Follow me on Twitter</name>
 			<url>https://twitter.com/KingPuffdaddi</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<iconclass>btn-twitter</iconclass>
 		</link>
 		<link>
 			<name>Donate</name>
