@@ -55,13 +55,14 @@ Maintainer: KingPuffdaddi
 Installed-Size: 304
 Depends: mobilesubstrate, applist (>= 1.4.1)
 Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.1_iphoneos-arm.deb
-Size: 31126
-MD5sum: 886fdd08164d1c4e4fa3089149eb6d7f
-SHA1: 0250317db14d36cf3fe53b88775b20d5ea0e95f1
-SHA256: a2da8ea688a6ef9e8899b99ac5baf3d1139470d90ec32273531c89005a2190af
+Size: 31124
+MD5sum: a94c754719a359d06734bc1e127fd449
+SHA1: d6f1012a0f35be0061bc406a8b387d7e712b9fb9
+SHA256: b22f5ca6d523607e8a39673882029f6a0574e54b887bcb992fd518b3fe35442a
 Section: Tweaks
 Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
 Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
 Name: HeadphoneLaunch
 
 Package: com.kingpuffdaddi.hidenotificationcentertitle
