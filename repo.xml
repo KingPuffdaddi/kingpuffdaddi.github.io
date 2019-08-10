@@ -6,7 +6,8 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Donations to kingpuffdaddi@icloud.com</name>
+			<name>Donate</name>
+			<url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kingpuffdaddi%40icloud%2ecom&lc=US&item_name=PauseOnMute%20%2d%20KingPuffdaddi&item_number=PauseOnMute&no_note=0&cn=Note%20to%20Author%3a&no_shipping=1&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted</url>
 			<iconclass>fa fa-paypal</iconclass>
 		</link>
 	</footerlinks>
