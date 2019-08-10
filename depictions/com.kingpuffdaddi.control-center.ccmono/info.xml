@@ -1,0 +1,24 @@
+<package>
+	<id>com.kingpuffdaddi.control-center.ccmono</id>
+	<name>CCMono</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> A Control Center Module to enable/disable "Mono Audio" (NEEDS ICON)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

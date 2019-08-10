@@ -39,13 +39,14 @@ Maintainer: KingPuffdaddi
 Installed-Size: 116
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.kingpuffdaddi.control-center.ccmono_1.0_iphoneos-arm.deb
-Size: 9780
-MD5sum: 5ab9d51e7916835729dedf491ab8cba6
-SHA1: 8a2087ceca2a24733d086f42a58302bbfa8392bf
-SHA256: 328729f4133a64961d25df446e2a614d92a562266b23a002743ccafd7d43a755
+Size: 9782
+MD5sum: b4e836ce42ac5863419f23122e064bcf
+SHA1: 3e5250678d8812ddb47cccbabfde257f56755436
+SHA256: 4bfe28c4da211d943f5b3d66fd44ec5f6ad6c31db733567c4edc21fd96814bde
 Section: Control Center (Modules)
 Description: A Control Center Module to enable/disable "Mono Audio" (NEEDS ICON)
 Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.control-center.ccmono
 Name: CCMono
 
 Package: com.kingpuffdaddi.headphonelaunch
