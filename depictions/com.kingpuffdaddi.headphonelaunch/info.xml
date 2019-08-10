@@ -16,7 +16,11 @@
 	<descriptionlist>
 		<description> Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<image>cydia.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
