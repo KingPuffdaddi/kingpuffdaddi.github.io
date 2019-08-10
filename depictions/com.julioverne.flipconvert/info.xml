@@ -1,0 +1,24 @@
+<package>
+	<id>com.julioverne.flipconvert</id>
+	<name>FlipConvert</name>
+	<version>0.0~beta4~A12</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>FlipConvert for A12 </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Update for A12</change>
+	</changelog>
+	<links></links>
+</package>

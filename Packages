@@ -5,14 +5,15 @@ Maintainer: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Installed-Size: 108
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware(>=11.0)
 Filename: ./debs/com.julioverne.flipconvert_0.0~beta4~A12_iphoneos-arm.deb
-Size: 11912
-MD5sum: 07a264bfeffa509eaf3e2d19b7d89b70
-SHA1: 8edc05bc22cba62f3d55a7e53bd7658bae6a3ab3
-SHA256: 02831f6b81c92a49edc2af27700de7d7248ee9a9decd4703629094eaba1d9a99
+Size: 11962
+MD5sum: e29d952d39cd4b133e17fa25317e5106
+SHA1: c9a044f01a6fb2a98966214aae33da7e05cfd3b5
+SHA256: 53d00a44edecf8b050b0b2745c35695b646b794cc13648f967d97624eb7de589
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: FlipConvert for A12
 Author: julioverne
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.julioverne.flipconvert
 Name: FlipConvert
 
 Package: com.kingpuffdaddi.alwaysaudio
@@ -73,13 +74,14 @@ Maintainer: KingPuffdaddi
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.kingpuffdaddi.hidenotificationcentertitle_0.0.1-22+debug_iphoneos-arm.deb
-Size: 2850
-MD5sum: 8f851fd4a6bc9fc66640acef0c1ca532
-SHA1: 922905f7bae25a6c6128e5a329e3586ceec0e427
-SHA256: 7f808daa887da9aba0250839f007c62520845b94ca7b1bdfa4fb1515d2cff074
+Size: 2814
+MD5sum: 634aea3b83f6474aed2a6e62fc126f79
+SHA1: 1a29953c3da22a311f26c019c137e6429e055753
+SHA256: 90fb1b59859c113f67fed601b0dcb47b3e8252013e700e9ee0000249f08f08d1
 Section: Tweaks
 Description: Hides the "Notification Center" title
 Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.hidenotificationcentertitle
 Name: HideNotificationCenterTitle
 
 Package: com.kingpuffdaddi.musiclength
@@ -106,12 +108,13 @@ Maintainer: KingPuffdaddi
 Installed-Size: 368
 Depends: mobilesubstrate
 Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.1_iphoneos-arm.deb
-Size: 35412
-MD5sum: 4a354b6716e2d4ae1933bbea0d76dab1
-SHA1: 74a66ddbcc8469fe4cc4b33e238993ea4f69ebd3
-SHA256: 501266c843dc125f15f591d4f1a06efd2f97bef3dbb750121bef10aa28ad6774
+Size: 35438
+MD5sum: 017e40b812347940a3056ae1ba73ccb0
+SHA1: 299b040de9331d8e6160f4833266c63d4fd5ec1e
+SHA256: 5e7d1950f6746d94daf7ba68d25e73476a460518fd2dcb6a8a8a542a2a26f0ae
 Section: Tweaks
 Description: Makes your icons with notification bounce
 Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
 Name: NotifBounce
 
