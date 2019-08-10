@@ -52,7 +52,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: KingPuffdaddi
 Installed-Size: 304
-Depends: mobilesubstrate, preferenceloader, applist
+Depends: mobilesubstrate
 Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.1_iphoneos-arm.deb
 Size: 31124
 MD5sum: 2e079e25a7bf4a9cdc9f8b4249779e1d
