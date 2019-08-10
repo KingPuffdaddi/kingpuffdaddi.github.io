@@ -5,5 +5,9 @@
 			<url>https://twitter.com/KingPuffdaddi</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
+		<link>
+			<name>Donations to kingpuffdaddi@icloud.com</name>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
 	</footerlinks>
 </repo>
