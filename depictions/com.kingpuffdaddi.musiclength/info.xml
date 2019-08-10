@@ -1,10 +1,10 @@
 <package>
-	<id>com.kingpuffdaddi.alwaysaudio</id>
-	<name>AlwaysAudio</name>
-	<version>1.0-1+debug</version>
+	<id>com.kingpuffdaddi.musiclength</id>
+	<name>MusicLength</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>8.0</miniOS>
+			<miniOS>12.0</miniOS>
 			<maxiOS>12.2</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
@@ -14,9 +14,13 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Allows apps to play audio even when mute switch is on</description>
+		<description>Shows track length in Music App. (Just tested on Plus device)</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<image>cydia.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
