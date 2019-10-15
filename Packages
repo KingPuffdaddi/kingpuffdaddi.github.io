@@ -91,13 +91,14 @@ Maintainer: KingPuffdaddi
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.kingpuffdaddi.mobiletimerdunload_0.0.1_iphoneos-arm.deb
-Size: 2632
-MD5sum: 88954850884e7914279f636796256762
-SHA1: 9a39c926a964cc949a368efb50b42769d2e568ff
-SHA256: c624f92a5b2adefcd5ec003da9a1013a3cf4768c1bacf81edb4c268e0e85dfe4
+Size: 2714
+MD5sum: 52dcf7b0ab91bdf276c8e4ee9a5cce83
+SHA1: c4329fb8012e473d30ee16bc5e0716d9bd97bcfa
+SHA256: 15accd1a92d55b4f3dcb4390954fbbe6c37ba2115c2e28066645d165de1c400b
 Section: Tweaks
 Description: Stops all tweaks except from DynamicTimer & PlaylistAlarm from loading into mobiletimerd, to prevent crashing issues of mobiletimerd
 Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.mobiletimerdunload
 Name: mobiletimerdUnload
 
 Package: com.kingpuffdaddi.musiclength
