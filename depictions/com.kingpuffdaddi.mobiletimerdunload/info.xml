@@ -1,0 +1,24 @@
+<package>
+	<id>com.kingpuffdaddi.mobiletimerdunload</id>
+	<name>mobiletimerdUnload</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>tops all tweaks except DynamicTimer and PlaylistAlarm from loading into mobiletimerd, to prevent crashing issues of mobiletimerd </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>
