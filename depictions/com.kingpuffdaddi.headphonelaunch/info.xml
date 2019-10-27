@@ -1,7 +1,7 @@
 <package>
 	<id>com.kingpuffdaddi.headphonelaunch</id>
 	<name>HeadphoneLaunch</name>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
@@ -22,7 +22,8 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Start app from LockScreen and trigger passcode view</change>
+		<change>Remove app from AppSwitcher when it gets killed</change>
 	</changelog>
 	<links></links>
 </package>
