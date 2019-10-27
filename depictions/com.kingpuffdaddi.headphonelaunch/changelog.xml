@@ -3,6 +3,8 @@
 		<version>0.0.2</version>
 		<change>Start app from LockScreen and trigger passcode view</change>
 		<change>Remove app from AppSwitcher when it gets killed</change>
+	</changes>
+	<changes>
 		<version>0.0.1</version>
 		<change>Initial release</change>
 	</changes>
