@@ -1,7 +1,7 @@
 <package>
 	<id>com.kingpuffdaddi.headphonelaunch</id>
 	<name>HeadphoneLaunch</name>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
@@ -22,8 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Start app from LockScreen and trigger passcode view</change>
-		<change>Remove app from AppSwitcher when it gets killed</change>
+		<change>Added support for Bluetooth devices</change>
 	</changelog>
 	<links></links>
 </package>
