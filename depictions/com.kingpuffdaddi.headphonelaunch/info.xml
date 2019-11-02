@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added support for Bluetooth devices</change>
+		<change>Fixed crash on lockscreen for versoin before iOS 11</change>
 	</changelog>
 	<links></links>
 </package>
