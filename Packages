@@ -51,16 +51,16 @@ Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.contr
 Name: CCMono
 
 Package: com.kingpuffdaddi.headphonelaunch
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: KingPuffdaddi
-Installed-Size: 304
+Installed-Size: 352
 Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.3_iphoneos-arm.deb
-Size: 32054
-MD5sum: 776a3425433691b467dceba715149735
-SHA1: f2d48d272deb52baf1fd5cd0537a28ae3bd462f3
-SHA256: 74d195e715b1d62397ddcc2c0de3aa36ac7a9877facdccab07e1f22c94d214e6
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.4_iphoneos-arm.deb
+Size: 34956
+MD5sum: 7a0cf271bfb082fff533842894262105
+SHA1: 3058b08dd98f522f9967ce11e3e323c68142d1e5
+SHA256: 5e9a9945feac3b1511cee0e9a784890b6327d48259716690ced687098d08cdcc
 Section: Tweaks
 Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
 Author: KingPuffdaddi
