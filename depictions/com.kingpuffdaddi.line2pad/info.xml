@@ -14,10 +14,10 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>LINE2Pad gives the iPad interface to easily login to your LINE account on a second iPhone. 
-		After you have logged in you can disable the tweak from the settings to prevent visual glitches.
+		<description><![CDATA[LINE2Pad gives the iPad interface to easily login to your LINE account on a second iPhone. <br/>
+		After you have logged in you can disable the tweak from the settings to prevent visual glitches.<br/><br/>
 
-		Note: Your chat history will not be transferred to your second device, but all new messages will show up on both devices.</description>
+		Note: Your chat history will not be transferred to your second device, but all new messages will show up on both devices.]]></description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
