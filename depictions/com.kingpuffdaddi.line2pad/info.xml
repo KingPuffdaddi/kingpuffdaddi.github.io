@@ -1,0 +1,27 @@
+<package>
+	<id>com.kingpuffdaddi.line2pad</id>
+	<name>LINE2Pad</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>LINE2Pad gives the iPad interface to easily login to your LINE account on a second iPhone. 
+		After you have logged in you can disable the tweak from the settings to prevent visual glitches.
+
+		Note: Your chat history will not be transferred to your second device, but all new messages will show up on both devices.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>
