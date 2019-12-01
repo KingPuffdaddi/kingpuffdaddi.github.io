@@ -91,14 +91,14 @@ Maintainer: KingPuffdaddi
 Installed-Size: 352
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.kingpuffdaddi.line2pad_0.0.1_iphoneos-arm.deb
-Size: 30646
-MD5sum: a6bb30b271e6a081ed7d51e6d50ef873
-SHA1: 607e3e5e7636cabcbbecc225aacc095cf7ed4453
-SHA256: 9d5e02b9eab068d87a4da98bec7f45fbb8fe1c1ad27d909bcc312b0565afbc1e
+Size: 30686
+MD5sum: ed8d72146d6eca93eeb541a31d93508d
+SHA1: 0c527428603b555fbbacf8bb69c8b2f896ff267c
+SHA256: a94c347b01c256d7947b1b7f318f5a4178da7de39092efdab143083ca790c6a1
 Section: Tweaks
 Description: LINE2Pad gives the iPad interface to easily login to your LINE account on a second iPhone. After you have logged in you can disable the tweak from the settings to prevent visual glitches. Note: Your chat history will not be transferred to your second device, but all new messages will show up on both devices.
 Author: KingPuffdaddi
-Depiction: Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.line2pad
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.line2pad
 Name: LINE2Pad
 
 Package: com.kingpuffdaddi.mobiletimerdunload
