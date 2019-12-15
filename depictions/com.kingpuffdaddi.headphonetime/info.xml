@@ -1,0 +1,23 @@
+<package>
+	<id>com.kingpuffdaddi.headphonetime</id>
+	<name>HeadphoneTime</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> When holding the button on your headphones it will read out the time instead of activating Siri</description>
+	</descriptionlist>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>
