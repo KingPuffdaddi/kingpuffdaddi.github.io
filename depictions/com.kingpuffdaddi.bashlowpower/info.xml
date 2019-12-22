@@ -1,0 +1,25 @@
+<package>
+	<id>com.kingpuffdaddi.bashlowpower</id>
+	<name>BashLowPower</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description><![CDATA[Execute a bash script, when Low Power Mode gets enabled/disabled.</br></br>
+		Change the scripts enable.sh and disable.sh under var/mobile/bashlowpower]]></description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

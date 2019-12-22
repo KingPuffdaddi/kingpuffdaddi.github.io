@@ -33,6 +33,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysaudio
 Name: AlwaysAudio
 
+Package: com.kingpuffdaddi.bashlowpower
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.bashlowpower_0.0.2_iphoneos-arm.deb
+Size: 7984
+MD5sum: b6727b5bd1807617e9e249709677ef48
+SHA1: fadfac999b06a6d66841e4f8d0676f413e1fee2a
+SHA256: b2f5e7850a1b922c769f96761aac9f27d25b2ec143105bcb4b5f623f9351502a
+Section: Tweaks
+Description: Execute a bash script, when Low Power Mode gets enabled/disabled.Change the scripts enable.sh and disable.sh under var/mobile/bashlowpower
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.bashlowpower
+Name: BashLowPower
+
 Package: com.kingpuffdaddi.control-center.ccmono
 Version: 1.0
 Architecture: iphoneos-arm
