@@ -153,18 +153,18 @@ Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.mobil
 Name: mobiletimerdUnload
 
 Package: com.kingpuffdaddi.musiclength
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: KingPuffdaddi
-Installed-Size: 104
+Installed-Size: 116
 Depends: mobilesubstrate
-Filename: ./debs/com.kingpuffdaddi.musiclength_0.0.1_iphoneos-arm.deb
-Size: 3606
-MD5sum: 9c7e96078a6909a23703264b7fd9b414
-SHA1: 5deff65370e904ba8652d327ebf9b696c0daa579
-SHA256: ccbe5c129c685a18bea772514d5fba95e9755f02fdb9ee3e02dae371174a10f7
+Filename: ./debs/com.kingpuffdaddi.musiclength_0.0.2_iphoneos-arm.deb
+Size: 7790
+MD5sum: 3e8bb5047962151605891f4d12d8b660
+SHA1: 933b44748833ae62ab68e0123c9f8f20bdcb3b05
+SHA256: 660a6c0c59e3ad60f748089ff66f565cead98bc6a405a342802ba2dfe1c89c8b
 Section: Tweaks
-Description: Shows track length in Music App. (Just tested on Plus device)
+Description: Shows track length in Music App.
 Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musiclength
 Name: MusicLength
