@@ -85,16 +85,16 @@ Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headp
 Name: HeadphoneLaunch
 
 Package: com.kingpuffdaddi.headphonetime
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: KingPuffdaddi
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.kingpuffdaddi.headphonetime_0.0.1_iphoneos-arm.deb
-Size: 8946
-MD5sum: d2702b4ddaf3fff466b1b8817364b443
-SHA1: 9c371b04df6eae2cadb0c3b6155768eb053ef144
-SHA256: d64001f8f81c6496b4e68b26c3ddf3221034b03f9f2e47fc7e8c026e59f211fb
+Filename: ./debs/com.kingpuffdaddi.headphonetime_0.0.2_iphoneos-arm.deb
+Size: 9724
+MD5sum: f8ba2d0d8c5981676fdf09dbeb78b230
+SHA1: 3b906d315b482772d0cf8310dde77d31b5a889eb
+SHA256: 1699e984ce3d514f9a866d19fdc69dcb275bfb1afb82cf5349ceb6b4d4b08483
 Section: Tweaks
 Description: When holding the button on your headphones it will read out the time instead of activating Siri
 Author: KingPuffdaddi

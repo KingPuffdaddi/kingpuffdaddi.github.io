@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<maxiOS>13.3</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -17,7 +17,7 @@
 		<description> When holding the button on your headphones it will read out the time instead of activating Siri</description>
 	</descriptionlist>
 	<changelog>
-		<change>initial release</change>
+		<change>Update for iOS 13</change>
 	</changelog>
 	<links></links>
 </package>
