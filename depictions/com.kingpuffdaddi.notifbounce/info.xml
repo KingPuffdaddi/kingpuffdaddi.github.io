@@ -1,11 +1,11 @@
 <package>
 	<id>com.kingpuffdaddi.notifbounce</id>
 	<name>NotifBounce</name>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<maxiOS>13.3</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Makes your icons with notification bounce </description>
+		<description>Adds bouncing animation to icons with a Badge</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

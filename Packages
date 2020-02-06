@@ -170,16 +170,16 @@ Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.music
 Name: MusicLength
 
 Package: com.kingpuffdaddi.notifbounce
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: KingPuffdaddi
-Installed-Size: 368
+Installed-Size: 384
 Depends: mobilesubstrate
-Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.1_iphoneos-arm.deb
-Size: 35438
-MD5sum: 017e40b812347940a3056ae1ba73ccb0
-SHA1: 299b040de9331d8e6160f4833266c63d4fd5ec1e
-SHA256: 5e7d1950f6746d94daf7ba68d25e73476a460518fd2dcb6a8a8a542a2a26f0ae
+Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.2_iphoneos-arm.deb
+Size: 37786
+MD5sum: 0f1205e8effda83c1c6263ce562eb0b6
+SHA1: 2bee62ff74e34fca77cf5c5a82f2bdd0cbc89e29
+SHA256: 8fbe8d89927d7cb7dc496304c64066c22d69f6e21552cd70a962314791cc6c30
 Section: Tweaks
 Description: Makes your icons with notification bounce
 Author: KingPuffdaddi
