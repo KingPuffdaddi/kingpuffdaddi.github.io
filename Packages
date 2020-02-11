@@ -67,6 +67,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.control-center.ccmono
 Name: CCMono
 
+Package: com.kingpuffdaddi.deafen13
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.deafen13_0.0.1_iphoneos-arm.deb
+Size: 2776
+MD5sum: fad27fc5245aafb60c8a7795f03d67c9
+SHA1: 0aeb48538e95946789ea953716945fb49f94429d
+SHA256: 19ee4f2acf300a8c3bfda6b20fbf0e8e7720931a401267ccd569549d05fe295f
+Section: Tweaks
+Description: Stops the screen from waking up when setting the volume higher than the EU volume limt or just when the track changes with volume higher than that, while listening with headphones
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.deafen13
+Name: Deafen13
+
 Package: com.kingpuffdaddi.headphonelaunch
 Version: 0.0.4
 Architecture: iphoneos-arm
