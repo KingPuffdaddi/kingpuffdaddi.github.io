@@ -1,0 +1,25 @@
+<package>
+	<id>com.kingpuffdaddi.alwaysdark</id>
+	<name>AlwaysDark</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description><![CDATA[Run selected Apps always in Dark/Light Mode. <br><br>
+			Might need to restart the app after changing the settings]]></description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>
