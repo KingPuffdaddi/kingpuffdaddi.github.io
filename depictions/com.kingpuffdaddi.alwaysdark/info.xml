@@ -18,7 +18,14 @@
 			Might need to restart the app after changing the settings <br>
 			3D touch menu for Dark/Light Mode]]></description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<image>cydia.png</image>
+		</screenshot>
+		<screenshot>
+			<image>settings.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Added 3D options for Dark/Light Mode</change>
 	</changelog>
