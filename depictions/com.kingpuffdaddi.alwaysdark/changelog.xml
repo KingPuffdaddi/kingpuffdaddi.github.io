@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.1</version>
+		<change>Added 3D touch menu for Dark/Light Mode</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>initial release</change>
 	</changes>
