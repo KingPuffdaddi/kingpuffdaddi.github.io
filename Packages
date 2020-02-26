@@ -34,6 +34,23 @@ Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alway
 Name: AlwaysAudio
 
 Package: com.kingpuffdaddi.alwaysdark
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 336
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.alwaysdark_1.0_iphoneos-arm.deb
+Size: 30798
+MD5sum: 42678a9f807ea5ee8aa2c4f629106e11
+SHA1: d257dd52e19bef048d3a39dad2f023c3a74cc6d1
+SHA256: 56386db7093d772be794d68ca52ae6d0b1346053d7fdb7c23e55794d85f6f8ed
+Section: Tweaks
+Description: Run specific apps always in Dark/Light Mode
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
+Name: AlwaysDark
+
+Package: com.kingpuffdaddi.alwaysdark
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: KingPuffdaddi
@@ -102,6 +119,57 @@ Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.deafe
 Name: Deafen13
 
 Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 304
+Depends: mobilesubstrate, applist (>= 1.4.1)
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.1_iphoneos-arm.deb
+Size: 31124
+MD5sum: a94c754719a359d06734bc1e127fd449
+SHA1: d6f1012a0f35be0061bc406a8b387d7e712b9fb9
+SHA256: b22f5ca6d523607e8a39673882029f6a0574e54b887bcb992fd518b3fe35442a
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.2_iphoneos-arm.deb
+Size: 31912
+MD5sum: e1cc8ada0d4c8fefca995909bdf0b434
+SHA1: 6bcf04f2096a8595b7741b9a8be7a4982b143e2e
+SHA256: bc34a1c18931e61879a8fa4f6f8b04fda4b84437193d5fcc2cd5222cc02ef35e
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.3_iphoneos-arm.deb
+Size: 32054
+MD5sum: 776a3425433691b467dceba715149735
+SHA1: f2d48d272deb52baf1fd5cd0537a28ae3bd462f3
+SHA256: 74d195e715b1d62397ddcc2c0de3aa36ac7a9877facdccab07e1f22c94d214e6
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonelaunch
 Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: KingPuffdaddi
@@ -117,6 +185,40 @@ Description: Automatically launch/kill an app when you connect/disconnect headph
 Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
 Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonelaunch
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.kingpuffdaddi.headphonelaunch_0.0.5_iphoneos-arm.deb
+Size: 35644
+MD5sum: 7124c5fa521543cefa423b23e373a216
+SHA1: d27230e2ba730186fa41a5b7e41477338e057393
+SHA256: 0df15bbce025a152b66e021a62946cf5f0c1746e68a1755da27ac75d41d97f34
+Section: Tweaks
+Description: Automatically launch/kill an app when you connect/disconnect headphones. Configure in settings
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonelaunch
+Name: HeadphoneLaunch
+
+Package: com.kingpuffdaddi.headphonetime
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.headphonetime_0.0.1_iphoneos-arm.deb
+Size: 8946
+MD5sum: d2702b4ddaf3fff466b1b8817364b443
+SHA1: 9c371b04df6eae2cadb0c3b6155768eb053ef144
+SHA256: d64001f8f81c6496b4e68b26c3ddf3221034b03f9f2e47fc7e8c026e59f211fb
+Section: Tweaks
+Description: When holding the button on your headphones it will read out the time instead of activating Siri
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.headphonetime
+Name: HeadphoneTime
 
 Package: com.kingpuffdaddi.headphonetime
 Version: 0.0.2
@@ -187,6 +289,23 @@ Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.mobil
 Name: mobiletimerdUnload
 
 Package: com.kingpuffdaddi.musiclength
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.musiclength_0.0.1_iphoneos-arm.deb
+Size: 3606
+MD5sum: 9c7e96078a6909a23703264b7fd9b414
+SHA1: 5deff65370e904ba8652d327ebf9b696c0daa579
+SHA256: ccbe5c129c685a18bea772514d5fba95e9755f02fdb9ee3e02dae371174a10f7
+Section: Tweaks
+Description: Shows track length in Music App. (Just tested on Plus device)
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musiclength
+Name: MusicLength
+
+Package: com.kingpuffdaddi.musiclength
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: KingPuffdaddi
@@ -202,6 +321,23 @@ Description: Shows track length in Music App.
 Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musiclength
 Name: MusicLength
+
+Package: com.kingpuffdaddi.notifbounce
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 368
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.1_iphoneos-arm.deb
+Size: 35438
+MD5sum: 017e40b812347940a3056ae1ba73ccb0
+SHA1: 299b040de9331d8e6160f4833266c63d4fd5ec1e
+SHA256: 5e7d1950f6746d94daf7ba68d25e73476a460518fd2dcb6a8a8a542a2a26f0ae
+Section: Tweaks
+Description: Makes your icons with notification bounce
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
+Name: NotifBounce
 
 Package: com.kingpuffdaddi.notifbounce
 Version: 0.0.2

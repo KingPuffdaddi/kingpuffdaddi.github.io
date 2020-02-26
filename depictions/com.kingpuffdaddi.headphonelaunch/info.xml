@@ -1,11 +1,11 @@
 <package>
 	<id>com.kingpuffdaddi.headphonelaunch</id>
 	<name>HeadphoneLaunch</name>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<maxiOS>13.3</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed crash on lockscreen for versoin before iOS 11</change>
+		<change>Added iOS 13 support</change>
 	</changelog>
 	<links></links>
 </package>
