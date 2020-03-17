@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>
+		<change>Added option to disable for Folders</change>
+		<change>Added option to blacklist certain apps</change>
+	</changes>
+	<changes>
 		<version>0.0.2</version>
 		<change>Added iOS 13 support</change>
 	</changes>
