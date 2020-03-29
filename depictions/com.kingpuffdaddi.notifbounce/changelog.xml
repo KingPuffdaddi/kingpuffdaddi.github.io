@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.4</version>
+		<change>Added optionsto customize Height, Duration, Bounciness</change>
+	</changes>
+	<changes>
 		<version>0.0.3</version>
 		<change>Added option to disable for Folders</change>
 		<change>Added option to blacklist certain apps</change>

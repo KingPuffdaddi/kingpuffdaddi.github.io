@@ -1,7 +1,7 @@
 <package>
 	<id>com.kingpuffdaddi.notifbounce</id>
 	<name>NotifBounce</name>
-	<version>0.0.3</version>
+	<version>0.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
@@ -18,8 +18,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Added option to disable for Folders</change>
-		<change>Added option to blacklist certain apps</change>
+		<change>Added optionsto customize Height, Duration, bounciness</change>
 	</changelog>
 	<links></links>
 </package>

@@ -373,3 +373,20 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
 Name: NotifBounce
 
+Package: com.kingpuffdaddi.notifbounce
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.notifbounce_0.0.4_iphoneos-arm.deb
+Size: 42234
+MD5sum: e1caadc70d87edca6a6bf6da38376819
+SHA1: 606eee3649c8d61556b3b81529d45630124ab4ec
+SHA256: d8c08a763ed444b31bf466b28511cf238c6774546f86f768be1bfece20476e00
+Section: Tweaks
+Description: Makes your icons with notification bounce
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
+Name: NotifBounce
+
