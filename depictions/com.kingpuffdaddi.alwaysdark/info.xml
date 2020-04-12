@@ -27,7 +27,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added 3D options for Dark/Light Mode</change>
+		<change>Changed method to set dark/light mode, to fix most crashes and glitches </change>
 	</changelog>
 	<links></links>
 </package>
