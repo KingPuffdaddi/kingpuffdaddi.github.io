@@ -84,6 +84,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
 Name: AlwaysDark
 
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.2_iphoneos-arm.deb
+Size: 30530
+MD5sum: 01df3fe137c2593e72cd47a53321f854
+SHA1: 8fceaadbaa49b2f00715533c7bcc31a8f04410c9
+SHA256: 0d4ccbc326ed9e77590d91a65c443b992eca51a5a8b8c77fe4f16f503fba9eef
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
 Package: com.kingpuffdaddi.bashlowpower
 Version: 0.0.2
 Architecture: iphoneos-arm

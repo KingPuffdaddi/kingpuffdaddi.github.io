@@ -1,0 +1,25 @@
+<package>
+	<id>com.kingpuffdaddi.audiomix</id>
+	<name>AudioMix</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description><![CDATA[Tweak to play two or more audio sources simultaneously. <br>
+			Doesn't work well with all apps!!! <br>
+			Sometimes the first audio still gets paused, so you will have to start it again.]]></description>
+	</descriptionlist>
+	<changelog>
+		<change>initial release </change>
+	</changelog>
+	<links></links>
+</package>
