@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>
+		<change>Fix preferences on A12/A13 devices</change>
+	</changes>
+	<changes>
 		<version>0.0.2</version>
 		<change>initial release</change>
 	</changes>
