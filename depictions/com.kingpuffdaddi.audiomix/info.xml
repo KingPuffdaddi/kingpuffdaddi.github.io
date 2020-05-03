@@ -19,7 +19,7 @@
 			Sometimes the first audio still gets paused, so you will have to start it again.]]></description>
 	</descriptionlist>
 	<changelog>
-		<change>Fix preferences on A12/A13 devices</change>
+		<change>Attempt to make the "Reduce" option more reliable</change>
 	</changelog>
 	<links></links>
 </package>
