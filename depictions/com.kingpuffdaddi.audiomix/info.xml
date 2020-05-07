@@ -1,7 +1,7 @@
 <package>
 	<id>com.kingpuffdaddi.audiomix</id>
 	<name>AudioMix</name>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -19,7 +19,7 @@
 			Sometimes the first audio still gets paused, so you will have to start it again.]]></description>
 	</descriptionlist>
 	<changelog>
-		<change>Attempt to make the "Reduce first audio" option more reliable</change>
+		<change>Fixed main audio app not showing up in CC</change>
 	</changelog>
 	<links></links>
 </package>

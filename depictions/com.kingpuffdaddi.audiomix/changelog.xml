@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.5</version>
+		<change>Fixed main audio app not showing up in CC</change>
+	</changes>
+	<changes>
 		<version>0.0.4</version>
 		<change>Attempt to make the "Reduce first audio" option more reliable</change>
 	</changes>
