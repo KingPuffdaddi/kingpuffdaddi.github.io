@@ -1,0 +1,28 @@
+<package>
+	<id>com.kingpuffdaddi.musicheart</id>
+	<name>MusicHeart</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Shows heart icon next to liked songs in the music app</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>cydia.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>

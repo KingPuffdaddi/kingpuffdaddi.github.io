@@ -373,6 +373,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.mobiletimerdunload
 Name: mobiletimerdUnload
 
+Package: com.kingpuffdaddi.musicheart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.musicheart_1.0_iphoneos-arm.deb
+Size: 5670
+MD5sum: b277de70b6a1a1c51ecc164283c6b70c
+SHA1: 543a07d513be19cf56aefcad10f254849bc00d3d
+SHA256: dbe1f08b2ca61d7d90aa9f12d9eba623b66450e024f19a36b8b61a60b696060f
+Section: Tweaks
+Description: Show heart icon next to liked songs in the music app
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musicheart
+Name: MusicHeart
+
 Package: com.kingpuffdaddi.musiclength
 Version: 0.0.1
 Architecture: iphoneos-arm
