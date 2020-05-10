@@ -1,11 +1,11 @@
 <package>
 	<id>com.kingpuffdaddi.alwaysdark</id>
 	<name>AlwaysDark</name>
-	<version>1.1</version>
+	<version>1.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>13.5</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -27,7 +27,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Changed method to set dark/light mode, to fix most crashes and glitches </change>
+		<change>Changed the 3D touch icons</change>
 	</changelog>
 	<links></links>
 </package>
