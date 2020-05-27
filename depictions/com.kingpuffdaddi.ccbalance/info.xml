@@ -1,0 +1,28 @@
+<package>
+	<id>com.kingpuffdaddi.ccbalance</id>
+	<name>CCBalance</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Change audio balance in CC</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>cydia.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>
