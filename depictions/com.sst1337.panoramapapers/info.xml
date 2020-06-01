@@ -1,0 +1,28 @@
+<package>
+	<id>com.sst1337.panoramapapers</id>
+	<name>PanoramaPapers</name>
+	<version>1.6.4~kingpuffdaddi</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description><![CDATA[Updated for iOS 12 and 13 <br><br>
+			Description: <br> "Add a different image to each SpringBoard Screen! If you use the right images you can create a Panorama Background Effect that Apple removed from the iPhone. Configure options on settings - supports up to 10 screens! <br><br>
+			This tweak will not work if you use a dynamic or live wallpaper<br><br>
+			If your images do not show, try setting your wallpaper to a stock wallpaper in Settings->Wallpapers->Stills. Then set your images and respring.<br><br>
+			Configure options from Settings "]]> </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Update for iOS 12 and 13</change>
+	</changelog>
+	<links></links>
+</package>
