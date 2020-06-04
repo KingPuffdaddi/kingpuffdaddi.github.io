@@ -203,6 +203,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
 Name: CCBalance
 
+Package: com.kingpuffdaddi.ccbalance
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.ccbalance_1.0.1_iphoneos-arm.deb
+Size: 6504
+MD5sum: 5d73f8d3a6dfe2f0e9f7ae62c16850b0
+SHA1: 4e84ed2a4cc732045194f1b7b40751c9a890a111
+SHA256: 3429d4aeee6dcea96d2214ca979cafeb0b310b06220ec9d49af8200a2d7f2a62
+Section: Tweaks
+Description: Change the audio balance from CC
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
+Name: CCBalance
+
 Package: com.kingpuffdaddi.control-center.ccmono
 Version: 1.0
 Architecture: iphoneos-arm
