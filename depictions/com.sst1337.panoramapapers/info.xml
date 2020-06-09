@@ -1,7 +1,7 @@
 <package>
 	<id>com.sst1337.panoramapapers</id>
 	<name>PanoramaPapers</name>
-	<version>1.6.4~kingpuffdaddi</version>
+	<version>1.6.4~kingpuffdaddi-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -22,7 +22,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Update for iOS 12 and 13</change>
+		<change>Fix for Unc0ver</change>
 	</changelog>
 	<links></links>
 </package>

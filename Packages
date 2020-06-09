@@ -560,3 +560,20 @@ Author: sst1337
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.sst1337.panoramapapers
 Name: PanoramaPapers
 
+Package: com.sst1337.panoramapapers
+Version: 1.6.4~kingpuffdaddi-1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/com.sst1337.panoramapapers_1.6.4~kingpuffdaddi-1_iphoneos-arm.deb
+Size: 56690
+MD5sum: ca664afbf5574a71b6f8aa761d1f264a
+SHA1: 37f17671eeb9293d660400219ad15b3faedc17d2
+SHA256: b3e75480251283bebcf85358e6ea3400529eec39ac5e835c182e4c4dd70291c8
+Section: Tweaks
+Description: Add a different image to each SpringBoard Screen!
+Author: sst1337
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.sst1337.panoramapapers
+Name: PanoramaPapers
+
