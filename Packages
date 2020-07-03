@@ -584,10 +584,10 @@ Maintainer: KingPuffdaddi
 Installed-Size: 320
 Depends: mobilesubstrate
 Filename: ./debs/org.h6nry.crossfade_1.0.1_iphoneos-arm.deb
-Size: 18184
-MD5sum: 5005a36da7eae49b48d9b19d1d00e0cb
-SHA1: 270a7d6fc15d66d3afcdff94b666a80f21e3011f
-SHA256: d2b73fd6b54c03933d860d8b560d99430d4884c92ee899287381d08bc05defd5
+Size: 16300
+MD5sum: 20170cc1ff2356ee02f60ad71ce66714
+SHA1: f88ffbbab1f00273e022ea57e8ef49357a532ffe
+SHA256: a0052bdef3cb49904db63341a5afc5375b63a2dea5a4bebda4e9644a2151f4c1
 Section: Tweaks
 Description: Crossfade. In your music app.
 Author: H6nry
