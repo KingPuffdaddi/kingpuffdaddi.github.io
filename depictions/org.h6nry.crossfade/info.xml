@@ -1,0 +1,30 @@
+<package>
+	<id>org.h6nry.crossfade</id>
+	<name>Crossfade</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description><![CDATA[Crossfade in the Music app <br>
+			Enable/Disable under Settings->Music <br><br>
+			Credits to h6nry for making this tweak for iOS 6!!]]></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>cydia.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fix for iOS 12 and 13</change>
+	</changelog>
+	<links></links>
+</package>

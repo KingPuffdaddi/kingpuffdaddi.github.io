@@ -577,3 +577,20 @@ Author: sst1337
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.sst1337.panoramapapers
 Name: PanoramaPapers
 
+Package: org.h6nry.crossfade
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs/org.h6nry.crossfade_1.0.1_iphoneos-arm.deb
+Size: 18184
+MD5sum: 5005a36da7eae49b48d9b19d1d00e0cb
+SHA1: 270a7d6fc15d66d3afcdff94b666a80f21e3011f
+SHA256: d2b73fd6b54c03933d860d8b560d99430d4884c92ee899287381d08bc05defd5
+Section: Tweaks
+Description: Crossfade. In your music app.
+Author: H6nry
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=org.h6nry.crossfade
+Name: Crossfade
+
