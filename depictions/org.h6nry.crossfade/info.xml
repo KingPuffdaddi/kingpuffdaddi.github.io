@@ -15,7 +15,8 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description><![CDATA[Crossfade in the Music app <br>
-			Enable/Disable under Settings->Music <br><br>
+			Enable/Disable under Settings->Music <br>
+			Because of DRM it doesn't work with Apple Music files<br><br>
 			Credits to h6nry for making this tweak for iOS 6!!]]></description>
 	</descriptionlist>
 	<screenshots>
