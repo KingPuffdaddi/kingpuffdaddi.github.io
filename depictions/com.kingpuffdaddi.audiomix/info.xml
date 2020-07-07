@@ -1,11 +1,11 @@
 <package>
 	<id>com.kingpuffdaddi.audiomix</id>
 	<name>AudioMix</name>
-	<version>0.0.5</version>
+	<version>0.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-			<maxiOS>13.5</maxiOS>
+			<maxiOS>13.5.1</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -19,7 +19,7 @@
 			Sometimes the first audio still gets paused, so you will have to start it again.]]></description>
 	</descriptionlist>
 	<changelog>
-		<change>Fixed main audio app not showing up in CC</change>
+		<change>While recording a voice memo, the music now plays out of the bottom speaker</change>
 	</changelog>
 	<links></links>
 </package>

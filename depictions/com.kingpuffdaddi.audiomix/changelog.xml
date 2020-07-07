@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.6</version>
+		<change>While recording a voice memo, the music now plays out of the bottom speaker</change>
+	</changes>
+	<changes>
 		<version>0.0.5</version>
 		<change>Fixed main audio app not showing up in CC</change>
 	</changes>
