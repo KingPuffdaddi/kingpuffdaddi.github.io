@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>0.0.7</version>
+		<change>Keep playing music while phone rings</change>
+		<change>Fixed voice messages in iMessage not playing over speaker</change>
+	</changes>
+	<changes>
 		<version>0.0.6</version>
 		<change>While recording a voice memo, the music now plays out of the bottom speaker</change>
 	</changes>

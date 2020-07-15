@@ -186,6 +186,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
 Name: AudioMix
 
+Package: com.kingpuffdaddi.audiomix
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.7_iphoneos-arm.deb
+Size: 32770
+MD5sum: 742326f5c5d95a873c57fc6ea05d8455
+SHA1: b1cff9150cd015f95dcd046cfe4b8691780205a2
+SHA256: ea0776a4214859e9f854602a8a914eec2a520d877bf61a19bda48c954930b2ef
+Section: Tweaks
+Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
+Name: AudioMix
+
 Package: com.kingpuffdaddi.bashlowpower
 Version: 0.0.2
 Architecture: iphoneos-arm
