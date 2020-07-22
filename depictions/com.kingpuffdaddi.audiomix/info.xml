@@ -1,7 +1,7 @@
 <package>
 	<id>com.kingpuffdaddi.audiomix</id>
 	<name>AudioMix</name>
-	<version>0.0.7</version>
+	<version>0.0.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -19,8 +19,7 @@
 			Sometimes the first audio still gets paused, so you will have to start it again.]]></description>
 	</descriptionlist>
 	<changelog>
-		<change>Keep playing music while phone rings</change>
-		<change>Fixed voice messages in iMessage not playing over speaker</change>
+		<change>Added option to disable AudioMix for specific apps</change>
 	</changelog>
 	<links></links>
 </package>

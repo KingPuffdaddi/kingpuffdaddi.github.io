@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.8</version>
+		<change>Added option to disable AudioMix for specific apps</change>
+	</changes>
+	<changes>
 		<version>0.0.7</version>
 		<change>Keep playing music while phone rings</change>
 		<change>Fixed voice messages in iMessage not playing over speaker</change>
