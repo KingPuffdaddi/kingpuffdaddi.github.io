@@ -594,6 +594,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.notifbounce
 Name: NotifBounce
 
+Package: com.kingpuffdaddi.taiwan1
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.taiwan1_0.0.1_iphoneos-arm.deb
+Size: 3542
+MD5sum: a558b152a7a5b6b459c3b39fd6bdb8a4
+SHA1: 840dfaacb7e5d0c0f3fe8c3a2d34a19811813c44
+SHA256: 37b42071b000074f1b25c79380695d74e8f710c5871ea0516e06f1890ec1fdff
+Section: Tweaks
+Description: Adds the Taiwan flag emoji 🇹🇼 back to the keyboard of HK/MO devices
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.taiwan1
+Name: Taiwan1
+
 Package: com.sst1337.panoramapapers
 Version: 1.6.4~kingpuffdaddi
 Architecture: iphoneos-arm
