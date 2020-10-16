@@ -220,6 +220,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.audiomix
 Name: AudioMix
 
+Package: com.kingpuffdaddi.autoluxbrightness
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.autoluxbrightness_0.0.2_iphoneos-arm.deb
+Size: 34926
+MD5sum: 3dc71373e0d64e9643261a67dfabf893
+SHA1: a45556f3b9c023effc47157f241f0ef2fcce07ca
+SHA256: 6683d460c77ab214367a56b7a47a86af6e7c884a57d29492f97ca6be4c57a8a3
+Section: Tweaks
+Description: Enable/Diable Auto-Brightness above/below certain lux level
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.autoluxbrightness
+Name: AutoLuxBrightness
+
 Package: com.kingpuffdaddi.bashlowpower
 Version: 0.0.2
 Architecture: iphoneos-arm

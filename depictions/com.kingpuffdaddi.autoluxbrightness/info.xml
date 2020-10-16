@@ -1,0 +1,28 @@
+<package>
+	<id>com.kingpuffdaddi.autoluxbrightness</id>
+	<name>AutoLuxBrightness</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Enable/Diable Auto-Brightness above/below certain lux level </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>settings.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links></links>
+</package>
