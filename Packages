@@ -628,6 +628,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.taiwan1
 Name: Taiwan1
 
+Package: com.neinzedd9.fakecallhistory
+Version: 1.0.4.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 356
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Filename: ./debs/com.neinzedd9.fakecallhistory_1.0.4.1_iphoneos-arm.deb
+Size: 14840
+MD5sum: c7ed253e5f05ad8075fb2ed2b6dc3d87
+SHA1: 4bfcb98e60f7fc2c4e4f36c17e99db93b452e08b
+SHA256: c5cee8163fbe5ec740d9bf2bdf2b3bfba16a19e39d05b4fe3d21e109cd17eb28
+Section: Tweaks
+Description: Add fake calls to your call history!
+Author: NeinZedd9
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.neinzedd9.fakecallhistory
+Name: Fake Call History
+
 Package: com.sst1337.panoramapapers
 Version: 1.6.4~kingpuffdaddi
 Architecture: iphoneos-arm

@@ -1,0 +1,7 @@
+<changelog>
+	<changes>
+		<version>1.0.4.1</version>
+		<change>Update for arm64e</change>
+		<change>Fixed error message</change>
+	</changes>
+</changelog>

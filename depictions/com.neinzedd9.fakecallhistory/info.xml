@@ -1,0 +1,25 @@
+<package>
+	<id>com.neinzedd9.fakecallhistory</id>
+	<name>Fake Call History</name>
+	<version>1.0.4.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> Add fake calls to your call history! <description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Update for arm64e</change>
+		<change>Fixed error message</change>
+	</changelog>
+	<links></links>
+</package>
