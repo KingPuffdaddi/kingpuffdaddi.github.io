@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.5</version>
+		<change>iOS 14 support</change>
+	</changes>
+	<changes>
 		<version>0.0.4</version>
 		<change>Added optionsto customize Height, Duration, Bounciness</change>
 	</changes>

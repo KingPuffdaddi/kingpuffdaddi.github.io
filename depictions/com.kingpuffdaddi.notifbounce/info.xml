@@ -1,11 +1,11 @@
 <package>
 	<id>com.kingpuffdaddi.notifbounce</id>
 	<name>NotifBounce</name>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
-			<maxiOS>13.5</maxiOS>
+			<maxiOS>14.5</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -18,7 +18,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Added optionsto customize Height, Duration, bounciness</change>
+		<change>iOS 14 support</change>
 	</changelog>
 	<links></links>
 </package>
