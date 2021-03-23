@@ -227,10 +227,10 @@ Maintainer: KingPuffdaddi
 Installed-Size: 384
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/com.kingpuffdaddi.audiomix_0.0.9_iphoneos-arm.deb
-Size: 36126
-MD5sum: a8e016ca4031c2db69218331c50f048c
-SHA1: fcc59ee12e3b148f9fa53294d37b389a81e69614
-SHA256: fd9e1dfbeccba4ca04b993880c7511f4753d05c15650cebf41b1c4da714739e8
+Size: 36188
+MD5sum: c7a6a0a2c7ce781e419e0781c620fe1b
+SHA1: 7f30c7654074f925227866e7418f5da9724c7b33
+SHA256: f9e46c7f9d95776d0b18faa3f33b1b5b184c476c815ad18550d1b5d57e693f45
 Section: Tweaks
 Description: Tweak to play two or more audio sources simultaneously. Doesn't work well with all apps! Sometimes the first audio still gets paused, so you will have to start it again.
 Author: KingPuffdaddi
