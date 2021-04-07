@@ -1,6 +1,14 @@
 <changelog>
 	<changes>
+		<version>1.6.4~kingpuffdaddi-2</version>
+		<change>Update for iOS 14</change>
+	</changes>
+	<changes>
 		<version>1.6.4~kingpuffdaddi-1</version>
 		<change>Fix for Unc0ver</change>
+	</changes>
+	<changes>
+		<version>1.6.4~kingpuffdaddi</version>
+		<change>Updated for iOS 12 and 13</change>
 	</changes>
 </changelog>

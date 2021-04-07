@@ -1,11 +1,11 @@
 <package>
 	<id>com.sst1337.panoramapapers</id>
 	<name>PanoramaPapers</name>
-	<version>1.6.4~kingpuffdaddi-1</version>
+	<version>1.6.4~kingpuffdaddi-2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-			<maxiOS>13.5</maxiOS>
+			<maxiOS>14.5</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -22,7 +22,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fix for Unc0ver</change>
+		<change>Update for iOS 14</change>
 	</changelog>
 	<links></links>
 </package>
