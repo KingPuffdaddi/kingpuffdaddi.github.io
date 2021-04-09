@@ -764,3 +764,20 @@ Author: H6nry
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=org.h6nry.crossfade
 Name: Crossfade
 
+Package: org.h6nry.crossfade
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs/org.h6nry.crossfade_1.0.2_iphoneos-arm.deb
+Size: 16310
+MD5sum: e727cbebefcd81a21f64d555b90001d3
+SHA1: 7edd144e98fe335925023eaae6e51b58eb2fdbaf
+SHA256: b5ee618faa89ef4f564c4cfe919b9232da2e528e96bd16fdbd6a2a712e305196
+Section: Tweaks
+Description: Crossfade. In your music app.
+Author: H6nry
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=org.h6nry.crossfade
+Name: Crossfade
+

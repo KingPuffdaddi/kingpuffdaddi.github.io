@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change>Slightly smoother transition between tracks</change>
+	</changes>
+	<changes>
 		<version>1.0.1</version>
 		<change>Fix for iOS 12 and 13</change>
 	</changes>
