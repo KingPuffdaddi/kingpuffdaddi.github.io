@@ -101,6 +101,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
 Name: AlwaysDark
 
+Package: com.kingpuffdaddi.alwaysdark
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.kingpuffdaddi.alwaysdark_1.2.2_iphoneos-arm.deb
+Size: 33394
+MD5sum: 69840783a5974cfb62fa4b1f5717f543
+SHA1: 012f7f4d90f963c3602f539ad6eef9c63cecc5ed
+SHA256: 26978afccd65378d233315ba50b8349b513eee3b0f21c832e7be4aa3bab58347
+Section: Tweaks
+Description: Run specific apps always in Dark/Light Mode
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
+Name: AlwaysDark
+
 Package: com.kingpuffdaddi.audiomix
 Version: 0.0.2
 Architecture: iphoneos-arm
