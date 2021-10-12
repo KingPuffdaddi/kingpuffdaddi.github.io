@@ -526,6 +526,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.line2pad
 Name: LINE2Pad
 
+Package: com.kingpuffdaddi.longernotifs
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.longernotifs_0.0.1_iphoneos-arm.deb
+Size: 2726
+MD5sum: e1bb9ae214526543ae3d8ccfd346ba3c
+SHA1: b5e1469b6b88fe5b9a1f1cc1bff94260ed7def80
+SHA256: f29f69cab0c6d15666d4a4b32fa17fd060af0c561bb08c98e2cb4ae55aefec6d
+Section: Tweaks
+Description: Show all 256 characters of a push notification in the notification center
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.longernotifs
+Name: LongerNotifs
+
 Package: com.kingpuffdaddi.mobiletimerdunload
 Version: 0.0.1
 Architecture: iphoneos-arm
