@@ -1,11 +1,11 @@
 <package>
 	<id>com.kingpuffdaddi.musiclength</id>
 	<name>MusicLength</name>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-			<maxiOS>14.5</maxiOS>
+			<maxiOS>14.6</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Update for iOS 13</change>
+		<change>Fix for songs over 60min</change>
 	</changelog>
 	<links></links>
 </package>

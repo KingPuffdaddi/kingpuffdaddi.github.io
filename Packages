@@ -611,6 +611,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musiclength
 Name: MusicLength
 
+Package: com.kingpuffdaddi.musiclength
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.musiclength_0.0.3_iphoneos-arm.deb
+Size: 4272
+MD5sum: 90a82e92f6d5477c14d2526a16af8bda
+SHA1: d83637c514665fdcbd459d9c74170b1a53b5609a
+SHA256: 999cef47895072e90ec08d1f8810601f427d8118a421a3e474e949fee6ca3f23
+Section: Tweaks
+Description: Shows track length in Music App.
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musiclength
+Name: MusicLength
+
 Package: com.kingpuffdaddi.notifbounce
 Version: 0.0.1
 Architecture: iphoneos-arm

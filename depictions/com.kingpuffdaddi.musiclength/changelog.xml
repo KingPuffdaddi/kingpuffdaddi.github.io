@@ -1,7 +1,11 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>
+		<change>Fix for songs over 60min</change>
+	</changes>
+	<changes>
 		<version>0.0.2</version>
-		<change>Update for iOS 13.3</change>
+		<change>Update for iOS 13</change>
 	</changes>
 	<changes>
 		<version>0.0.1</version>
