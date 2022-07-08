@@ -1,11 +1,11 @@
 <package>
 	<id>com.kingpuffdaddi.musicheart</id>
 	<name>MusicHeart</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
-			<maxiOS>14.5</maxiOS>
+			<maxiOS>14.8</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>initial release</change>
+		<change>Fixed some lags and wrongly identified favorites</change>
 	</changelog>
 	<links></links>
 </package>

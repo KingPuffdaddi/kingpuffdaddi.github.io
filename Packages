@@ -577,6 +577,23 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musicheart
 Name: MusicHeart
 
+Package: com.kingpuffdaddi.musicheart
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.musicheart_1.0.1_iphoneos-arm.deb
+Size: 6264
+MD5sum: dca059e0073a5721af5bb3d4f3057b13
+SHA1: 1ec3381e27239f64413ed0e89032b0218724fe64
+SHA256: eab8c277fc153d53bbd7e4bceeb4d644ab2f411631925eeac915b9f84751149f
+Section: Tweaks
+Description: Show heart icon next to liked songs in the music app
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.musicheart
+Name: MusicHeart
+
 Package: com.kingpuffdaddi.musiclength
 Version: 0.0.1
 Architecture: iphoneos-arm
