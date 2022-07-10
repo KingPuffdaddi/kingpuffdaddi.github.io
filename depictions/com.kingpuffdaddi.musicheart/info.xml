@@ -1,7 +1,7 @@
 <package>
 	<id>com.kingpuffdaddi.musicheart</id>
 	<name>MusicHeart</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -22,7 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed some lags and wrongly identified favorites</change>
+		<change>Fixed icon in "Recently Added"</change>
 	</changelog>
 	<links></links>
 </package>
