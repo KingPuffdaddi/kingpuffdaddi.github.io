@@ -781,6 +781,22 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.taiwan1
 Name: Taiwan1
 
+Package: com.kingpuffdaddi.tweetbotoauth
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.tweetbotoauth_0.0.1_iphoneos-arm.deb
+Size: 7016
+MD5sum: 01b57f34cb5d66beedc3c27201d63009
+SHA1: 334e50c79fb6a4c9c732977145c2fb366bd514ce
+SHA256: 7ac16b55c3c5224c0b4f0baafc3de847f43ae4f58972689bdb6361fdbb05a3b3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: KingPuffdaddi
+Name: TweetbotOAuth
+
 Package: com.neinzedd9.fakecallhistory
 Version: 1.0.4.1
 Architecture: iphoneos-arm
