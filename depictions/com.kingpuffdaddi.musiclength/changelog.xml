@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.5</version>
+		<change>Update for iOS 15 and rootless</change>
+	</changes>
+	<changes>
 		<version>0.0.4</version>
 		<change>Fixed postion of length for iOS 14.5 and up</change>
 	</changes>
