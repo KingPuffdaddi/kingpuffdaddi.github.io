@@ -373,6 +373,40 @@ Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
 Name: CCBalance
 
+Package: com.kingpuffdaddi.ccbalance
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: KingPuffdaddi
+Installed-Size: 2112
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.ccbalance_1.0.3_iphoneos-arm64.deb
+Size: 6886
+MD5sum: 7fdf9db0f36c767733a9a23726e86b32
+SHA1: dee125864fe9b93ea29bee5625cdf03c7388e63d
+SHA256: e32ed563ba76ad534fe9c678acdd110a51a54a450332d5447ee43bff2c17d598
+Section: Tweaks
+Description: Change the audio balance from CC
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
+Name: CCBalance
+
+Package: com.kingpuffdaddi.ccbalance
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.kingpuffdaddi.ccbalance_1.0.3_iphoneos-arm.deb
+Size: 6814
+MD5sum: a741ece8b5e652de4de985f114a15fb0
+SHA1: 76037958e37184ccee3e3b4be1583f0a1c3219cc
+SHA256: f6acd29b46625ae85aa4d433bb3d197be24f2fd54e1147b8a62386676cedd869
+Section: Tweaks
+Description: Change the audio balance from CC
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
+Name: CCBalance
+
 Package: com.kingpuffdaddi.control-center.ccmono
 Version: 1.0
 Architecture: iphoneos-arm
@@ -388,6 +422,38 @@ Section: Control Center (Modules)
 Description: A Control Center Module to enable/disable "Mono Audio" (NEEDS ICON)
 Author: KingPuffdaddi
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.control-center.ccmono
+Name: CCMono
+
+Package: com.kingpuffdaddi.control-center.ccmono
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 168
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.kingpuffdaddi.control-center.ccmono_1.0.1_iphoneos-arm.deb
+Size: 9928
+MD5sum: edde1666c818b120f539f2b52ee11554
+SHA1: c00c8f673c632971836240a1c50290984cf1c855
+SHA256: 76c224bcfb6b4b62b3ecd6cf1b5d44635ca523292a12cc75381e503e66fb9d69
+Section: Control Center (Modules)
+Description: A Control Center Module to enable/disable "Mono Audio"
+Author: KingPuffdaddi
+Name: CCMono
+
+Package: com.kingpuffdaddi.control-center.ccmono
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: KingPuffdaddi
+Installed-Size: 4176
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.kingpuffdaddi.control-center.ccmono_1.0.1_iphoneos-arm64.deb
+Size: 10336
+MD5sum: 4e9fb2f7a02ff216e9710059e31217eb
+SHA1: b2687868577d70a305db9e20e5569627a59272d7
+SHA256: 77fee7ac029436e81e07650b27de0155b30de07ae4d9058925d7f72f8aca427b
+Section: Control Center (Modules)
+Description: A Control Center Module to enable/disable "Mono Audio"
+Author: KingPuffdaddi
 Name: CCMono
 
 Package: com.kingpuffdaddi.deafen13
