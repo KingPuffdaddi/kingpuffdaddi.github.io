@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.10</version>
+		<change>initial iOS 15 and rootless support</change>
+	</changes>
+	<changes>
 		<version>0.0.9</version>
 		<change>initial iOS 14 support</change>
 	</changes>
