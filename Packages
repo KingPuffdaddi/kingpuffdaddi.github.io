@@ -1049,6 +1049,40 @@ Author: NeinZedd9
 Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.neinzedd9.fakecallhistory
 Name: Fake Call History
 
+Package: com.neinzedd9.fakecallhistory
+Version: 1.0.4.2
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 356
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Filename: ./debs/com.neinzedd9.fakecallhistory_1.0.4.2_iphoneos-arm.deb
+Size: 14990
+MD5sum: ae56fe50198cf11bbfefe512c6eb7345
+SHA1: c998e2a7b354ed54a59dde321e049e6fdc80ec33
+SHA256: d7442c6f25205e22f4bebb1475de0e6ed79e45cfd3e6996522afffdaedb11f2e
+Section: Tweaks
+Description: Add fake calls to your call history!
+Author: NeinZedd9
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.neinzedd9.fakecallhistory
+Name: Fake Call History
+
+Package: com.neinzedd9.fakecallhistory
+Version: 1.0.4.2
+Architecture: iphoneos-arm64
+Maintainer: KingPuffdaddi
+Installed-Size: 7296
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Filename: ./debs/com.neinzedd9.fakecallhistory_1.0.4.2_iphoneos-arm64.deb
+Size: 13418
+MD5sum: aafed8f5f10445cece170406ab6459d6
+SHA1: f21690e6fad3c8d4b11a399e184b6473fa3cbac6
+SHA256: 01b3de49b9a7741e9ff801a608317afe239e9c7c764809fa6b061d5ecb06b7df
+Section: Tweaks
+Description: Add fake calls to your call history!
+Author: NeinZedd9
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.neinzedd9.fakecallhistory
+Name: Fake Call History
+
 Package: com.sst1337.panoramapapers
 Version: 1.6.4~kingpuffdaddi
 Architecture: iphoneos-arm
